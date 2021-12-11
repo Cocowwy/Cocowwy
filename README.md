@@ -5,6 +5,8 @@
 - 💬 Email 514658459@qq.com
 - 😄 Studying English ~
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Cocowwy&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=contribs&include_all_commits=true" alt="Cocowwy's github stats"/>
+
 #### Platform&Tools
 [![](https://img.shields.io/badge/Windows-11-4e9eee?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-10)
 [![](https://img.shields.io/badge/-IDEA-fcc624?style=flat-square&logo=IDEA&logoColor=white)](https://https://www.jetbrains.com/zh-cn/)
