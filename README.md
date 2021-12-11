@@ -1,11 +1,15 @@
-### Hi~
 
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cocowwy&layout=compact)](https://github.com/Cocowwy/github-readme-stats">
+
+### Weclome~ This Cocowwy
 - 🔭 I’m currently working on sexytea CSC China
 - 🌱 I’m currently learning K8S
 - 💬 Email 514658459@qq.com
 - 😄 Studying English ~
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Cocowwy&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=contribs&include_all_commits=true" alt="Cocowwy's github stats"/>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Cocowwy&show_icons=true&icon_color=0366d6&bg_color=ffffff&count_private=true&hide=prs" alt="Cocowwy's github stats"/>
 
 #### Platform&Tools
 [![](https://img.shields.io/badge/Windows-11-4e9eee?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-10)
@@ -25,9 +29,6 @@
 [![](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=ffffff)](https://vuejs.org/)
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
-```text
-Java    🕓 1024h1024m ██████████████████▋░░░░░░░░ 99.9%
-```
 
 #### Game
 ```text
