@@ -23,8 +23,6 @@
 [![](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=ffffff)](https://vuejs.org/)
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
-![Github stars](https://img.shields.io/github/stars/Cocowwy/Cocowwy.svg)
-
 ```text
 Java    🕓 1024h1024m ██████████████████▋░░░░░░░░ 99.9%
 ```
