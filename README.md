@@ -4,7 +4,7 @@
 
 ### Weclome~ This Cocowwy
 - 🔭 I’m currently working on sexytea CSC China
-- 🌱 I’m currently learning K8S
+- 🌱 I like playing basketball
 - 💬 Email 514658459@qq.com
 - 😄 Studying English ~
 
