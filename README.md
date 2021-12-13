@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cocowwy&layout=compact)](https://github.com/Cocowwy/github-readme-stats">
 
-### Weclome~ This Cocowwy
+### Weclome~ This is Cocowwy
 - 🔭 I’m currently working on sexytea CSC China
 - 🌱 I like playing basketball
 - 💬 Email 514658459@qq.com
