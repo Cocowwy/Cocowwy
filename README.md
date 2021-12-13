@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on sexytea CSC China
 - 🌱 I like playing basketball
 - 💬 Email 514658459@qq.com
-- 😄 Studying English ~
+- 😄 Studying Java ~
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cocowwy&show_icons=true&icon_color=0366d6&bg_color=ffffff&count_private=true&hide=prs" alt="Cocowwy's github stats"/>
@@ -34,4 +34,5 @@
 ```text
 🎮 LoL                           🕘 1 hrs 1 mins
 🎮 TV                            🕘 1 hrs 1 mins
+🎮 Coding                        🕘 1 hrs 1 mins
 ```
