@@ -7,6 +7,7 @@
 - 🌱 I like playing basketball
 - 💬 Email 514658459@qq.com
 - 😄 Studying Java ~
+- birthday 1999 06 26
 - [CSDN](https://blog.csdn.net/Pzzzz_wwy?type=blog)
 
 
