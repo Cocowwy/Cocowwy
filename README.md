@@ -7,8 +7,8 @@
 - 🌱 I like playing basketball
 - 💬 Email 514658459@qq.com
 - 😄 Studying Java ~
-- birthday 1999 06 26
-- [CSDN](https://blog.csdn.net/Pzzzz_wwy?type=blog)
+- :birthday: 1999 06 26
+- :zap: [CSDN](https://blog.csdn.net/Pzzzz_wwy?type=blog)
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cocowwy&show_icons=true&icon_color=0366d6&bg_color=ffffff&count_private=true&hide=prs" alt="Cocowwy's github stats"/>
