@@ -38,3 +38,6 @@
 🎮 TV                            🕘 1 hrs 1 mins
 🎮 Coding                        🕘 1 hrs 1 mins
 ```
+
+### reading
+- :book: [nacos源码阅读](https://www.yuque.com/books/share/25157c70-4be0-49fc-a02f-2b5001c2b91d)
