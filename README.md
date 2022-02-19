@@ -11,7 +11,7 @@
 - ⚡ [CSDN](https://blog.csdn.net/Pzzzz_wwy?type=blog)
 
 ### note
-- :book: [nacos源码阅读](https://www.yuque.com/books/share/25157c70-4be0-49fc-a02f-2b5001c2b91d)  
+- :book: [nacos源码阅读](https://www.yuque.com/pc66715/nacos)  
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cocowwy&show_icons=true&icon_color=0366d6&bg_color=ffffff&count_private=true&hide=prs" alt="Cocowwy's github stats"/>
