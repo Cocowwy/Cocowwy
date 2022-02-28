@@ -11,7 +11,7 @@
 - ⚡ [CSDN](https://blog.csdn.net/Pzzzz_wwy?type=blog)
 
 ### note
-- :book: [nacos源码阅读](https://www.yuque.com/pc66715/nacos)  
+- :book: [Nacos源码阅读](https://www.yuque.com/pc66715/nacos)  
 - :book: [PageHelper源码阅读](https://www.yuque.com/books/share/793991c1-c59e-4f4a-8dff-3f10b0c48d5e)
 
 
