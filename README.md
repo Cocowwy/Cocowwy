@@ -32,7 +32,7 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white" />
   <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=Vue.js&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?logo=docker&logoColor=white" />
-  <img alt="Bilibili" src="https://img.shields.io/badge/-Bilibili-00A1D6?logo=Bilibili&logoColor=white" />
+  <img alt="Bilibili" src="https://img.shields.io/badge/-Bilibili-EF69AC?logo=Bilibili&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white" />
   <img alt="CentOS" src="https://img.shields.io/badge/-CentOS-262577?logo=CentOS&logoColor=white" />
   <img alt="Windows Terminal" src="https://img.shields.io/badge/-Windows%20Terminal-4D4D4D?logo=Windows%20Terminal&logoColor=white" />
