@@ -47,5 +47,8 @@
 🎮 Coding                        🕘 1 hrs 1 mins
 ```
 
+#### Commit View
+![](https://raw.githubusercontent.com/Cocowwy/Cocowwy/main/assets/github-contribution-grid-snake.svg)
+
 #### 微信公众号～  
 <img src="https://user-images.githubusercontent.com/63331147/192079044-208ee2f1-381d-49b3-b60e-451350197f95.png" width="200" height="200" alt="公众号"/><br/>
