@@ -10,6 +10,9 @@
 - 🎂 1999 06 26
 - ⚡ [CSDN](https://blog.csdn.net/Pzzzz_wwy?type=blog)
 
+#### Commit View
+![](https://raw.githubusercontent.com/Cocowwy/Cocowwy/main/assets/github-contribution-grid-snake.svg)
+
 ### note
 - :book: [Nacos源码阅读](https://www.yuque.com/pc66715/nacos)  
 - :book: [PageHelper源码阅读](https://www.yuque.com/books/share/793991c1-c59e-4f4a-8dff-3f10b0c48d5e)
@@ -46,9 +49,6 @@
 🎮 TV                            🕘 1 hrs 1 mins
 🎮 Coding                        🕘 1 hrs 1 mins
 ```
-
-#### Commit View
-![](https://raw.githubusercontent.com/Cocowwy/Cocowwy/main/assets/github-contribution-grid-snake.svg)
 
 #### 微信公众号～  
 <img src="https://user-images.githubusercontent.com/63331147/192079044-208ee2f1-381d-49b3-b60e-451350197f95.png" width="200" height="200" alt="公众号"/><br/>
