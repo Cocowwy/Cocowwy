@@ -10,10 +10,6 @@
 - 🎂 1999 06 26
 - ⚡ [CSDN](https://blog.csdn.net/Pzzzz_wwy?type=blog)
 
-### note
-- :book: [Nacos源码阅读](https://www.yuque.com/pc66715/nacos)  
-- :book: [PageHelper源码阅读](https://www.yuque.com/books/share/793991c1-c59e-4f4a-8dff-3f10b0c48d5e)
-
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cocowwy&show_icons=true&icon_color=0366d6&bg_color=ffffff&count_private=true&hide=prs" alt="Cocowwy's github stats"/>
 
 #### 🖥️Platform&Tools
