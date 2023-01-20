@@ -1,6 +1,6 @@
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cocowwy&layout=compact)](https://github.com/Cocowwy/github-readme-stats">
+<img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Cocowwy&layout=compact)](https://github.com/Cocowwy/github-readme-stats">
 
 ### Weclome~ This is Cocowwy
 - 🔭 I’m currently working on sexytea CSC China
@@ -10,7 +10,7 @@
 - 🎂 1999 06 26
 - ⚡ [CSDN](https://blog.csdn.net/Pzzzz_wwy?type=blog)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Cocowwy&show_icons=true&icon_color=0366d6&bg_color=ffffff&count_private=true&hide=prs" alt="Cocowwy's github stats"/>
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Cocowwy&show_icons=true&icon_color=0366d6&bg_color=ffffff&count_private=true&hide=prs" alt="Cocowwy's github stats"/>
 
 #### 🖥️Platform&Tools
 <p>
