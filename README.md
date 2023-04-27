@@ -3,7 +3,7 @@
 <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Cocowwy&layout=compact)](https://github.com/Cocowwy/github-readme-stats">
 
 ### Weclome~ This is Cocowwy
-- 🔭 I’m currently working on sexytea CSC China
+- 🔭 Software Development Engineer 
 - 🌱 I like playing basketball
 - 💬 Email 514658459@qq.com
 - 😄 Studying Java ~
