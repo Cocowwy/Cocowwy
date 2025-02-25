@@ -5,7 +5,7 @@
 ### Weclome~ This is Cocowwy
 - 🔭 Software Development Engineer 
 - 🌱 I like playing basketball
-- 💬 Email 514658459@qq.com
+- 💬 Email cocowwy1999@gmail.com
 - 😄 Studying Java ~
 - 🎂 1999 06 26
 - ⚡ [CSDN](https://blog.csdn.net/Pzzzz_wwy?type=blog)
